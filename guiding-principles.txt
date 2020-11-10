@@ -1,0 +1,19 @@
+1) Escape the tyranny of *order*
+
+While relying on order provides to distinguish parameters
+provides for concise syntax, it's also often arbitrary- there may
+be no natural ordering of arguments. For the sake of
+comprehension, specifying arguments explicitly is also clearer,
+particularly when many arguments are involved.
+
+2) Code must be pleasing to read! Pleasing code is:
+    - Succinct
+    - Typographically optimized for humans!
+
+3) Typed code is better code.
+
+4) Human time is more important than machine time. 
+
+5) Everything is a hashmap or an atom
+
+6) Simple is better than complex!
