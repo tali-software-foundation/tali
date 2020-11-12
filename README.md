@@ -98,6 +98,17 @@ that should be evaluated in a hashmap.
 - def: defines a function
 - quote: returns arguments without evaluation
 
+## So where's the interpreter?
+
+I'm currently dabbling on one using Python 3
+[here](https://github.com/tali-software-foundation/tali-python).
+
+Of course, what's laid out above is simple enough that somebody
+far more talented than me could probably bang out their own
+interpreter in a weekend, if not a few hours. Tali really doesn't
+have a standard yet, though - it's more an inchoate, coalescing
+blob of ideas.
+
 ## Motivation
 
 ### *Another* Lisp, huh?
@@ -110,8 +121,13 @@ out!
 
 ### Did you name this after a Mass Effect character? 
 
-If it piques your interests, sure! If you're a lawyer, definitely
+If it piques your interest, sure! If you're a lawyer, definitely
 not!
 
 Really, I just think Tali's a great name for a programming
 language - fun, short, and homonymically rooted in computing!
+
+## License
+
+If Lisp truly is discovered, and not invented, then it is only
+fitting to release Tali under the MIT license, and so I do that.
