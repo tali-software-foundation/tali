@@ -1,4 +1,6 @@
-![Tali Logo](./graphics/tali-full.png)
+<img src="./graphics/tali-full.png" width="50" height="50">
+
+# Tali Programming Language
 
 Tali is a hashmap-y Lisp!
 
