@@ -1,4 +1,4 @@
-# Tali 
+![Tali Logo](./graphics/tali-full.png)
 
 Tali is a hashmap-y Lisp!
 
