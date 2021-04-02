@@ -1,4 +1,4 @@
-<img src="./graphics/tali-full.png" width="50" height="50">
+<img src="./graphics/tali-full.png" width="50%" height="50%">
 
 # Tali Programming Language
 
