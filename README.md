@@ -6,7 +6,7 @@ Tali is a hashmap-y Lisp!
 
 ## Show me syntax!
 
-In Tali, order doesn't matter: we use '@' to indicate the symbol
+In Tali, /order doesn't matter/: we use '@' to indicate the symbol
 that should be evaluated in a hashmap.
 
 ``` tali
